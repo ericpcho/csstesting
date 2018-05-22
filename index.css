@@ -10,3 +10,12 @@
   max-height: 100%;
   margin: auto;
 }
+
+
+@media only screen and (max-width: 600px) {
+  .container {
+      background-color: lightblue;
+      width: 200px;
+      height: 400px;
+  }
+}
